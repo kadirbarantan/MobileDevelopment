@@ -4,15 +4,14 @@ Vibe coding yöntemiyle AI destekli olarak geliştirilmiş, sade tasarımlı bir
 
 ## Teknolojiler
 
-- **React Native** + **TypeScript**
-- **Expo** (Expo Go ile test edilebilir)
-- **Expo Router** (navigasyon)
+- React Native + TypeScript
+- Expo (Expo Go ile test edilebilir)
+- Expo Router (navigasyon)
 
 ## Özellikler
 
-- ➕ Temel 4 işlem: toplama, çıkarma, çarpma, bölme
-- 🔬 Gelişmiş işlemler (iOS hesap makinesi tarzı toggle panel):
-  `sin`, `cos`, `tan`, `√`, `x²`, `x³`, `x!`, `ln`, `log`, `1/x`, `eˣ`, `10ˣ`, `π`, `e`
+- ➕ **Temel 4 işlem:** toplama, çıkarma, çarpma, bölme
+- 🔬 **Gelişmiş işlemler** (iOS hesap makinesi tarzı toggle panel): `sin`, `cos`, `tan`, `√`, `x²`, `x³`, `x!`, `ln`, `log`, `1/x`, `eˣ`, `10ˣ`, `π`, `e`
 
 ## Kurulum ve Çalıştırma
 
